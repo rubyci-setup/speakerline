@@ -37,6 +37,7 @@ group :test do
   gem 'shoulda-matchers'
   gem 'rails-controller-testing'
   gem 'simplecov', require: false
+  gem 'fast_ci'
 end
 
 gem 'sassc-rails'
